@@ -36,8 +36,6 @@ PDF CREATOR
 
 > You can access in your browser the web application http://localhost:3000.
 
-> Online application at **<a href="https://pdf-creator.netlify.app/" target="_blank">Pdf-creator</a>**
-
 ## Features
 
 Features/Packages used in the Project.
