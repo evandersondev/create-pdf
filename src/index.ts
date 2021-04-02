@@ -14,4 +14,5 @@ app.set('views', resolve(__dirname, 'views'))
 
 app.use(routes)
 
-app.listen(3000, () => console.log('running in http://localhost:3000'))
+const port = 3000 || process.env.PORT
+app.listen(port, () => console.log(`running in http://localhost:${port}`))
